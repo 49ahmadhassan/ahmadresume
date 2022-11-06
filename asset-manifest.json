@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/ahmadresume/static/css/main.2967427e.css",
-    "main.js": "/ahmadresume/static/js/main.1360d3df.js",
+    "main.js": "/ahmadresume/static/js/main.b6da9048.js",
     "static/media/banner2.png": "/ahmadresume/static/media/banner2.762d8f4fbb3afda2b302.png",
+    "static/media/logo.png": "/ahmadresume/static/media/logo.e811462fdde40a90e7c9.png",
     "index.html": "/ahmadresume/index.html",
     "main.2967427e.css.map": "/ahmadresume/static/css/main.2967427e.css.map",
-    "main.1360d3df.js.map": "/ahmadresume/static/js/main.1360d3df.js.map"
+    "main.b6da9048.js.map": "/ahmadresume/static/js/main.b6da9048.js.map"
   },
   "entrypoints": [
     "static/css/main.2967427e.css",
-    "static/js/main.1360d3df.js"
+    "static/js/main.b6da9048.js"
   ]
 }
